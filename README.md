@@ -68,8 +68,8 @@ The GenAI Career Assistant is built on a Supervisor Multi-Agent Architecture. He
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SagarNikam09/Student-MultiFunctionality-Hub
-   cd Student-MultiFunctionality-Hub
+   git clone https://github.com/Vishalbhalkar/StudentMultifunctionalityHub.git
+   cd StudentMultifunctionalityHub
    ```
 
 2. Install the required packages:
